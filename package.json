@@ -61,7 +61,7 @@
     "ternary-stream": "^1.2.3",
     "through2": "^0.6.5",
     "vinyl": "^0.4.6",
-    "vinyl-fs": "^1.0.0"
+    "vinyl-fs": "^2.0.0"
   },
   "optionalDependencies": {
     "sprity-css": "^1.0.2",
